@@ -1,0 +1,9 @@
+- Theory
+   - Generative Filters
+   - Image Thresholding Algorithm
+   - Color Spaces (RGB/HSV/YCbCr)
+   - Filter vectorization
+- Practical
+   - Histogram Equalization
+   - Joint Histogram & SVM classifier (Face Classification)
+   - Edge Detection (Real Time & Offline Mode)
