@@ -1,0 +1,21 @@
+names:
+- Beef_radish_soup
+- Black_bean_sauce_noodles
+- Chicken_porridge
+- Curry_Rice
+- Marinated_seasoning_crab
+- Pork_cutlet
+- Seasoned_spinach
+- Smoked_salmon
+- Steamed_rice
+- Stir-fried_Rice_Cake
+nc: 10
+roboflow:
+  license: CC BY 4.0
+  project: -970ur
+  url: https://universe.roboflow.com/calorie-xclip/-970ur/dataset/4
+  version: 4
+  workspace: calorie-xclip
+test: ../test/images
+train: ../train/images
+val: ../valid/images
